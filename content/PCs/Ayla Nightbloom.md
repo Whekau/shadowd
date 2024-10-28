@@ -1,7 +1,3 @@
-# Charakterbogen
-
----
-
 ## Charakter-Details
 - **Name:** Ayla Nightbloom
 - **Ancestry:** Tiefling
@@ -16,19 +12,19 @@
 ---
 
 ## Attribute
-| Attribut   | Wert | Modifikator |
-|------------|------|-------------|
-| STR        | 8    | -1          |
-| DEX        | 12   | +1          |
-| CON        | 13   | +1          |
-| INT        | 10   | +0          |
-| WIS        | 11   | +0          |
-| CHA        | 15   | +2          |
+| Attribut | Wert | Modifikator |
+| -------- | ---- | ----------- |
+| STR      | 8    | -1          |
+| DEX      | 12   | +1          |
+| CON      | 13   | +1          |
+| INT      | 10   | +0          |
+| WIS      | 11   | +0          |
+| CHA      | 15   | +2          |
 
 ---
 
 ## Verteidigung und Angriff
-- **HP:** 9
+- **HP:** 9/9
 - **AC:** 12
 - **Angriff:** Dagger: +1 (DEX), 1d4
 
@@ -52,14 +48,16 @@
 
 ---
 
-## Ausrüstung und Ressourcen
+## Ausrüstung
+
+### Geld (Beutel)
 - **GP:** 7
 - **SP:** - 
 - **CP:** - 
 
-### Gegenstände
-1. Leather armor
-2. Dagger
+### Gegenstände (Rucksack)
+1. Leather armor (11 + DEX Mod = AC)
+2. Dagger (1d4)
 3. Flint and steel
 4. Grappling hook
 5. Iron spikes
@@ -67,9 +65,4 @@
 7. Rope, 60’
 8. Torch
 9. Torch
-10. Torch
-
-**Zu Tragen:** Backpack, Bag of Coins (7)
-
----
-
+10. 
