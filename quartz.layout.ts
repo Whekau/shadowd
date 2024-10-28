@@ -19,7 +19,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs({
 	rootName: "Campaign",
-	}),,
+	}),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
