@@ -3,7 +3,6 @@
 - **Ancestry:** Tiefling
 - **Class:** Witch
 - **Level:** 2
-- **XP:** 0 / 20
 - **Title:** Fortune Teller
 - **Alignment:** Lawful
 - **Background:** Folk Hero
@@ -33,7 +32,7 @@
 ## Talente und Zauber
 - **Waffen:** Dagger, staff
 - **Rüstung:** Leather armor
-- **Sprachen:** Common, Diabolic, Diabolic, Primordial, Sylvan
+- **Sprachen:** Common, Diabolic, Primordial, Sylvan
 
 ### Rassenfähigkeiten
 - **Tiefling - Heatsight:** 1/Tag kann die Hitze von Lebewesen für 3 Runden wahrnehmen.
